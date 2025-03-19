@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article> 
+  
   <title>Gaining experience in technical writing</title>
+  
     <sect1>
         <title>Introduction</title>
+        
         <para>Last year, I met with several technical writers for a virtual round table discussion
             about technical writing in all its forms. My panel included Lauren Maffeo (author),
             Lauren Pritchett (editor), and Don Watkins and Chris Hermansen (writers), all of whom
